@@ -1,6 +1,6 @@
 {
   "name": "paperlib-cn-scrape-extension",
-  "version": "0.0.2",
+  "version": "0.0.7",
   "author": "someone",
   "description": "This extension scrapes the metadata for Chinese papers.",
   "main": "dist/main.js",
